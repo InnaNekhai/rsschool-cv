@@ -21,3 +21,5 @@ $c = $a + $b;
 ## Education
 civil engineering
 ## Languages
++ English B1
++ French C1
